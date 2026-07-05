@@ -9,3 +9,4 @@
 ## Featured Projects
 - Accident-Based Door Lock System (Arduino, sensor-based safety system)
 - Temperature Monitoring System (Arduino + LM35
+- Product Review Sentiment Analysis (Python, scikit-learn, TF-IDF, Naive Bayes — 80% accuracy)
